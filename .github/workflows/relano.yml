@@ -40,6 +40,6 @@ jobs:
           # Release notes for the new version
           releaseNotes: https://github.com/andreipope/relano-demo/blob/main/release-notes.md
           # Repository slug (eg: remotion-dev/remotion)
-          repositorySlug: /andreipope/relano-demo
+          repositorySlug: andreipope/relano-demo
           # Release tag (eg: v3.4.4)
           releaseTag: v1.2
