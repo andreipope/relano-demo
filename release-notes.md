@@ -25,3 +25,5 @@ This section lists the differences between version 1.1.2 and version 1.2 of the 
     - The `engine_family` query parameter has been introduced, allowing you to filter by engine family.
     - The `index_options` query parameter has been marked for deprecation. You can still use it in this version of the API, but it will be deprecated in a future release. Instead, use `engine_options` or `engine_family`.
   - **GET**`/engines`: The `allowed_index_option` field in the response has been renamed to `allowed_engine_options`. See the [List engines](ref:list-engines) page for details.
+
+  
