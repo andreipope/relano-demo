@@ -4,7 +4,7 @@
   uses: Just-Moh-it/Relano@v1.1.1
   with:
     # API key for OpenAI
-    openai-api-key: xxx
+    openai-api-key: ${{ secrets.OPENAI_KEY }}
     # Release notes for the new version
     releaseNotes: https://github.com/andreipope/relano-demo/blob/main/release-notes.md
     # Repository slug (eg: remotion-dev/remotion)
